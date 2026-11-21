@@ -3,12 +3,16 @@
   "name": "com.cards4play/cards4play",
   "title": "Cards4Play",
   "description": "Play Hearts, Spades, Euchre, Rook and more with friends or bots from your agent.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://cards4play.com/agent-play/",
   "remotes": [
     {
       "type": "streamable-http",
       "url": "https://cards4play.com/api/mcp"
     }
-  ]
+  ],
+  "repository": {
+    "url": "https://github.com/mattdowell/cards4play-mcp",
+    "source": "github"
+  }
 }
