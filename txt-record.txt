@@ -1,0 +1,1 @@
+cards4play.com. IN TXT "v=MCPv1; k=ed25519; p=kdCKjVPIWsZpcJJo4X9p1BU2lywKWwgv8rbKxHyKfRU="
