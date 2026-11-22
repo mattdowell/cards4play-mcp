@@ -2,6 +2,11 @@
 name: cards4play
 description: Play classic card games (Rook, Hearts, Euchre, Spades, Bridge, Canasta and more) with the user at a real Cards4Play table through the Cards4Play MCP server. Use when the user wants to play cards, start or join a card game, get advice on a hand, or have the agent take its own seat at a table.
 license: MIT
+when_to_use: |
+  - The user wants to play cards, start a card game, or join a table
+  - The user asks for help choosing a move in a card game
+  - The user wants their agent to take a seat at a real table
+  - Do NOT use for gambling, betting, or real-money play; Cards4Play has none
 ---
 
 # Cards4Play
