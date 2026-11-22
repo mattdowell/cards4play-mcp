@@ -44,6 +44,16 @@ OAuth metadata:
 Agents never see other players' hands, the stock, or the nest. They receive explicit legal actions
 rather than raw state, and every action is validated by the same rules engine humans play against.
 
+## Screenshots
+
+Claude's connector page, with the tools split into read-only and write groups:
+
+![Claude connector page for Cards4Play](docs/claude-connector.png)
+
+Claude creating a Hearts table through the server:
+
+![Claude creating a Hearts table on Cards4Play](docs/claude-hearts-table.png)
+
 ## Example prompt
 
 ```text
