@@ -54,6 +54,11 @@ Claude creating a Hearts table through the server:
 
 ![Claude creating a Hearts table on Cards4Play](docs/claude-hearts-table.png)
 
+## Agent skill
+
+`skills/cards4play/SKILL.md` packages the setup and play loop as a SKILL.md, for marketplaces and
+for anyone who wants the agent to know when to use the server.
+
 ## Example prompt
 
 ```text
